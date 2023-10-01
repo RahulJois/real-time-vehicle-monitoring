@@ -1,0 +1,50 @@
+
+**********RPi to Accelerometer*******
+
+   RPi          <-------->   Accelerometer
+
+   Pin 1 (3.3)  <------->    VDD
+
+   Pin 3 (SDA)  <------->    SDA
+
+   Pin 5 (SCL)  <------->    SCL
+
+   Pin 9 (GND)  <------->    GND
+
+
+**********RPi to GPS Module***********
+
+
+   RPi           <-------->   GPS
+
+   Pin 2  (5V)   <-------->   Vin
+
+   Pin 6  (GND)  <-------->   GND
+
+   Pin 8  (Tx)   <-------->   Rx
+
+   Pin 10 (Rx)   <-------->   Tx 
+
+
+*******Push Buttons and LED to RPi*******
+
+
+  Button 1      <--------->   Pin 31 (GPIO 6)
+ 
+  LED 1         <--------->   Pin 32 (GPIO 12)
+
+  Button 2      <--------->   Pin 33 (GPIO 13) 
+
+  LED 2         <--------->   Pin 36 (GPIO 16)
+
+  Button 3      <--------->   Pin 35 (GPIO 19) 
+
+  LED 3         <--------->   Pin 38 (GPIO 20)
+
+  Button 4      <--------->   Pin 37 (GPIO 26) 
+
+  LED 4         <--------->   Pin 40 (GPIO 21)
+
+
+kcc5kaANN0AAAAAAAAAAGRVra3y1BdNHp6pABnt7aRpDENg_9Q6rHIyGlksH790v
+
